@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="DELETE">
+        <cb_topic_id display_value="Submit a request">9ae415d09760211010c67b771153afbc</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"583e5f8f6dac472a800b31fe7b0c784f","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"},{"node_id":"06e027de920b41b79901e05667f30e70","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"5d32477022a74bb0829b47d6385ae928","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"cf5ad65dcca644a7bde57bba2ed22e8e","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"a76a9950abdf4f20882060acd16bdfd7","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"bb6c7525773d4844816501b68d431024","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"}]</nlu_entities>
+        <nlu_intent>SubmitARequest (Deprecated)</nlu_intent>
+        <nlu_intent_label>SubmitARequest (Deprecated)</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin_gv_dluo</sys_created_by>
+        <sys_created_on>2023-01-18 09:26:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>eee4d5d09760211010c67b771153afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_eee4d5d09760211010c67b771153afba</sys_update_name>
+        <sys_updated_by>admin_gv_dluo</sys_updated_by>
+        <sys_updated_on>2023-01-18 09:26:14</sys_updated_on>
+    </sys_cb_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8efa0428dbe3c0542f68c597059619e5</instance_id>
+        <instance_name>dev102758</instance_name>
+        <name>sys_cb_topic_language_eee4d5d09760211010c67b771153afba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language"><sys_cb_topic_language action="INSERT_OR_UPDATE"><cb_topic_id display_value="Submit a request">9ae415d09760211010c67b771153afbc</cb_topic_id><language_code>en</language_code><nlu_entities>[{"node_id":"583e5f8f6dac472a800b31fe7b0c784f","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"},{"node_id":"06e027de920b41b79901e05667f30e70","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"5d32477022a74bb0829b47d6385ae928","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"cf5ad65dcca644a7bde57bba2ed22e8e","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"a76a9950abdf4f20882060acd16bdfd7","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"bb6c7525773d4844816501b68d431024","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"}]</nlu_entities><nlu_intent>SubmitARequest (Deprecated)</nlu_intent><nlu_intent_label>SubmitARequest (Deprecated)</nlu_intent_label><nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model><nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cb_topic_language</sys_class_name><sys_created_by>admin_gv_dluo</sys_created_by><sys_created_on>2023-01-18 09:26:14</sys_created_on><sys_domain>global</sys_domain><sys_id>eee4d5d09760211010c67b771153afba</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cb_topic_language_eee4d5d09760211010c67b771153afba</sys_update_name><sys_updated_by>admin_gv_dluo</sys_updated_by><sys_updated_on>2023-01-18 09:26:14</sys_updated_on></sys_cb_topic_language></record_update>]]></payload>
+        <payload_hash>-535108347</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4ceae0d49727111010c67b771153af94</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_dluo</sys_created_by>
+        <sys_created_on>2023-01-18 09:26:14</sys_created_on>
+        <sys_id>e2e4d5d09760211010c67b771153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c4334e890000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_dluo</sys_updated_by>
+        <sys_updated_on>2023-01-18 09:26:14</sys_updated_on>
+        <type>CB Topic Language</type>
+        <update_guid>2ee4d5d08d60211074f82590e7f536bb</update_guid>
+        <update_guid_history>2ee4d5d08d60211074f82590e7f536bb:-535108347</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_dluo</sys_created_by>
+        <sys_created_on>2023-01-18 09:29:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_language">sys_cb_topic_language</sys_db_object>
+        <sys_id>0a62747539854dc3818a7893a661f999</sys_id>
+        <sys_metadata>eee4d5d09760211010c67b771153afba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_language_eee4d5d09760211010c67b771153afba</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_language_eee4d5d09760211010c67b771153afba">e2e4d5d09760211010c67b771153afbc</sys_update_version>
+        <sys_updated_by>admin_gv_dluo</sys_updated_by>
+        <sys_updated_on>2023-01-18 09:29:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
